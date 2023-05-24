@@ -1,0 +1,16 @@
+{
+  "name": "pizza-delivery-application-backend",
+  "version": "1.0.0",
+  "description": "backend for pizza delivery application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priya jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "morgan": "^1.10.0"
+  }
+}
